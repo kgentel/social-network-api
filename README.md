@@ -4,4 +4,4 @@ In this backend application you can add, edit and delete users, thoughts, and re
 
 Github repo: https://github.com/kgentel/social-network-api
 
-Video of app: 
+Video of app: https://youtu.be/wh1UFL_Wo7s
